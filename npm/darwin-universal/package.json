@@ -1,0 +1,15 @@
+{
+  "name": "@napi-rs/cool-darwin-universal",
+  "version": "0.0.0",
+  "os": [
+    "darwin"
+  ],
+  "main": "cool.darwin-universal.node",
+  "files": [
+    "cool.darwin-universal.node"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  }
+}
